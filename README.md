@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Magnus located in Swedeb
+- 👋 Hi, I’m located in Sweden
 - 👀 I’m interested in sandboxing 
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on useless programming projects
